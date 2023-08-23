@@ -1,4 +1,4 @@
-# simple-counter-application
+# simple-counter-app
 
 ## Project setup
 ```
